@@ -1,0 +1,4 @@
+#Thu Aug 27 22:53:56 JST 2020
+base.0=C\:\\Users\\tuuna\\Desktop\\MyApplication\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
